@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to the MPAI Store!
-    text: Welcome to the MPAI Store, the organisation in charge of distributing and promoting AI-based technology developed within the framework of [MPAI](https://mapi.community) standards. In particular, we foster the creation of a marketplace through which implementers can provide high-quality solutions to end users. We support a modular and low-code approach to AI, whereby specialised components can be assembled into workflows and executed in a standardized environment to perform more complex tasks.
+    title: "Welcome to the MPAI Store!"
+    text: "Welcome to the MPAI Store!"
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Welcome to the MPAI Store, the organisation in charge of distributing and promoting AI-based technology developed within the framework of [MPAI](https://mapi.community) standards. In particular, we foster the creation of a marketplace through which implementers can provide high-quality solutions to end users. We support a modular and low-code approach to AI, whereby specialised components can be assembled into workflows and executed in a standardized environment to perform more complex tasks."
     section: services
     list:
       - title: "E-Commerce"
