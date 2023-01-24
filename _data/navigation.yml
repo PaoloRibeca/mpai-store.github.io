@@ -11,11 +11,11 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "About us"
       section: services
-    - title: "Portfolio"
+    - title: "Standards & IID"
       section: portfolio
-    - title: "About"
+    - title: "About MPAI"
       section: about
     - title: "Timeline"
       section: timeline
@@ -23,8 +23,8 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Store"
+      url: https://mpai.community
 en-US:
   <<: *DEFAULT_EN
 en-CA:
