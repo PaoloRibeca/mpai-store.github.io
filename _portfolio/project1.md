@@ -9,7 +9,7 @@ caption:
   subtitle: A Developer ID enables you to publish your MPAI-compliant software modules 
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Are you a developer? According to MPAI standards, you will need a Developer ID that uniquely identifies you and enables you to submit your implementations. Get one [here]()
 
 {:.list-inline}
 - Date: January 2017
