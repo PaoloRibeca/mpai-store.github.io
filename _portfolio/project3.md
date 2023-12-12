@@ -5,11 +5,11 @@ image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Download MPAI orchestrators
+  subtitle: To run MPAI-compliant software on your device
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+MPAI standards allow you to run complete applications (or _workflows_) that you can build from AI modular components that you can download from the MPAI Store. In order to run workflows on your device you'll need an orchestrator (a.k.a. an _MPAI framework_).
 
 {:.list-inline}
 - Date: January 2017
