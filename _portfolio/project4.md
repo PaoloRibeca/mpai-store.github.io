@@ -5,11 +5,13 @@ image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Download AI apps
+  subtitle: and run them on your device
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+Are you an integrator in need of a component for your MPAI-compliant workflow? Are you an end user searching for a ready-made AI-based solution to your problem? Find and download what you are looking for [here]
+
 
 {:.list-inline}
 - Date: October 2019
