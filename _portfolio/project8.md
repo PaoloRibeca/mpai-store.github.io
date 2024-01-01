@@ -1,17 +1,13 @@
 ---
-title: Project Name
+title: Know more about MPAI standards
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/08-full.jpg
-alt: 
+alt: Know more about MPAI standards
 
 caption:
-  title: Window
+  title: Know more about MPAI standards
   subtitle: Photography
   thumbnail: assets/img/portfolio/08-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+Standards may be complex, and AI-centered ones even more! If you want to know more about MPAI Standards and the technology driving them, or if you would like to explore some of the current MPAI standardization efforts, visit [the MPAI homepage](https://mpai.community)
