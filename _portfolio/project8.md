@@ -1,12 +1,12 @@
 ---
 title: Know more about MPAI standards
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: and related technologies
 image: assets/img/portfolio/08-full.jpg
 alt: Know more about MPAI standards
 
 caption:
   title: Know more about MPAI standards
-  subtitle: Photography
+  subtitle: and related technologies
   thumbnail: assets/img/portfolio/08-thumbnail.jpg
 ---
 
