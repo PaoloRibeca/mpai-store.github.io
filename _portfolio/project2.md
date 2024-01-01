@@ -1,11 +1,11 @@
 ---
-title: Submit Your Implementation
+title: Submit your implementation
 subtitle: to distribute it on the MPAI Store
 image: assets/img/portfolio/02-full.jpg
-alt: Submit Your Implementation
+alt: Submit your implementation
 
 caption:
-  title: Submit Your Implementation
+  title: Submit your implementation
   subtitle: to distribute it on the MPAI Store
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
