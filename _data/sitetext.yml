@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "Welcome to the MPAI Store, the organisation in charge of distributing and promoting AI-based technology developed within the framework of [MPAI](https://mpai.community) standards. In particular, we foster the creation of a marketplace through which implementers can provide high-quality solutions to end users. We support a modular and low-code approach to AI, whereby specialised components can be assembled into workflows and executed in a standardized environment to perform more complex tasks."
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Registration Authority"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas stamp #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fas upload download
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fas fa-credit-card
+        icon: fas fa-shopping-cart
 
   portfolio:
     title: "Portfolio"
