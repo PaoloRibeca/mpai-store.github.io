@@ -20,20 +20,20 @@ If you are the person delegated to represent the implementer, please read on.
 
 The process followed by the MPAI Store to register an Implementer is detailed in the following list:
 1. An Implementer wishing to submit an implementation to The MPAI Store for distribution:
-	a. Is allowed to open one and only one account with the IIDRA.
-	b. Appoints a designated representative to interact with the IIDRA on behalf of the Implementer.
+    a. Is allowed to open one and only one account with the IIDRA.
+    b. Appoints a designated representative to interact with the IIDRA on behalf of the Implementer.
 2. The Designated Representative creates an account on the IIDRA website.
 3. The IIDRA server requests information such as:
-	a. First name, last name, and nationality of the Designated Representative.
-	b. A set of documents and identity checks sufficient to establish the Designated Representative's nationality, residence, and identity.
-	c. Implementer name.
-	d. Title of the Designated Representative within the Implementer.
-	e. Tax ID of the Implementer.
-	f. A set of documents sufficient to establish the existence of the Implementer.
-	g. Proof that the Designated Representative has the authority to request an IID
-	h. A Designated Representative’s statement that all information submitted on behalf of the Implementer is truthful and accurate and that the Designated Representative takes full responsibility for any inaccurate or false statement. 
-	i. All requested data in copies, e.g., DocuSign (all data mentioned above are mandatory).
-	j. Product class (more than one entry possible) (optional).
+    a. First name, last name, and nationality of the Designated Representative.
+    b. A set of documents and identity checks sufficient to establish the Designated Representative's nationality, residence, and identity.
+    c. Implementer name.
+    d. Title of the Designated Representative within the Implementer.
+    e. Tax ID of the Implementer.
+    f. A set of documents sufficient to establish the existence of the Implementer.
+    g. Proof that the Designated Representative has the authority to request an IID
+    h. A Designated Representative’s statement that all information submitted on behalf of the Implementer is truthful and accurate and that the Designated Representative takes full responsibility for any inaccurate or false statement. 
+    i. All requested data in copies, e.g., DocuSign (all data mentioned above are mandatory).
+    j. Product class (more than one entry possible) (optional).
 4. A Designated Representative unable to enter specific data may send an email to the IIDRA.
 5. The IIDRA will respond to such a Designated Representative requesting information as per #4 within two business days. 
 6. The IIDRA office assesses the documents submitted. 
