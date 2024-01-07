@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "Welcome to the MPAI Store, the organisation in charge of distributing and promoting AI-based technology developed within the framework of <a href='https://mpai.community'>MPAI</a> standards. In particular, we foster the creation of a marketplace through which implementers can provide high-quality solutions to end users. We support a modular and low-code approach to AI, whereby specialised components can be assembled into workflows and executed in a standardized environment to perform more complex tasks."
     section: services
     list:
-      - title: "Registration Authority for MPAI Developers"
+      - title: "[Registration Authority for MPAI Developers](https://mpai.store/pages/how-to-register)"
         desc: "The MPAI Store acts as the official Registration Authority for developers of MPAI-compliant software (so-called <i>implementers</i>) and issues them with Implementer IDs"
         icon: fas fa-stamp #find more at https://fontawesome.com/icons
       - title: "Distribute your Implementations Worldwide"
