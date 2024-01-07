@@ -39,5 +39,5 @@ The process followed by the MPAI Store to register an Implementer is detailed in
 6. The IIDRA office assesses the documents submitted. 
 7. If the IIDRA office is unable to verify the documents submitted by the Designated Representative, it will respond to the Designated Representative within five business days.
 8. If the documents submitted are accepted, the Designated Representative will be notified and given an Implementer ID.
-9. If the Implementer appoints a new Designated Representative, the new Designated Representative shall repeat steps 3.1, 2, 4, 7, 8, and 9 above.
+9. If the Implementer appoints a new Designated Representative, the new Designated Representative shall repeat steps 3.1, 3.2, 3.4, 3.7, 3.8, and 3.9 above.
 
