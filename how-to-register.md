@@ -13,7 +13,7 @@ Note that an implementer must be a legal entity, such as a company or an institu
 
 Each implementer is allowed to open one and only one account with MPAI Store. Each implementer must appoint a designated representative authorised to interact with the MPAI Store.
 
-Obtaining an IID from the MPAI Store requires the implementer to enter a legally binding agreement with MPAI Store. The detailed terms and conditions can be found [https://mpai.store/iid-legal-agreement].
+Obtaining an IID from the MPAI Store requires the implementer to enter a legally binding agreement with MPAI Store. The detailed terms and conditions can be found [here](https://mpai.store/iid-legal-agreement).
 If you are the person delegated to represent the implementer, please read on.
 
 ## Steps
