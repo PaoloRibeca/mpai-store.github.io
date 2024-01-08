@@ -18,11 +18,11 @@ en: &DEFAULT_EN
 
   services:
     title: "What we offer"
-    text: "Welcome to the MPAI Store, the organisation in charge of distributing and promoting AI-based technology developed within the framework of <a href='https://mpai.community'>MPAI</a> standards. In particular, we foster the creation of a marketplace through which implementers can provide high-quality solutions to end users. We support a modular and low-code approach to AI, whereby specialised components can be assembled into workflows and executed in a standardized environment to perform more complex tasks."
+    text: "Welcome to the MPAI Store, the organisation in charge of distributing and promoting AI-based technology developed within the framework of {{ "[MPAI](https://mpai.community)" || markdownify }} standards. In particular, we foster the creation of a marketplace through which implementers can provide high-quality solutions to end users. We support a modular and low-code approach to AI, whereby specialised components can be assembled into workflows and executed in a standardized environment to perform more complex tasks."
     section: services
     list:
       - title: "[Registration Authority for MPAI Developers](https://mpai.store/how-to-register)"
-        desc: "The MPAI Store acts as the official Registration Authority for developers of MPAI-compliant software (so-called <i>implementers</i>) and issues them with Implementer IDs"
+        desc: "The MPAI Store acts as the official Registration Authority for developers of MPAI-compliant software (so-called _implementers_) and issues them with Implementer IDs"
         icon: fas fa-stamp #find more at https://fontawesome.com/icons
       - title: "Distribute your Implementations Worldwide"
         desc: "Are you a developer of an MPAI-compliant implementation? Through the MPAI Store, you can distribute your software to the world at large"
@@ -67,7 +67,7 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-#  clients:
+######  clients:
 #    section: clients
 #    max-height: 100px
 #    horizontal-scrolling: "" #"yes/no"
@@ -84,42 +84,6 @@ en: &DEFAULT_EN
 #      - title: "Creative Market"
 #        url: https://github.com/raviriley/agency-jekyll-theme
 #        logo: assets/img/clients/creative-market.jpg
-#  team:
-#    title: "OUR AMAZING TEAM"
-#    text: "Lorem ipsum dolor sit amet consectetur."
-#    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-#    section: team
-#    people:
-#      - name: "Kay Garland"
-#        role: "Lead Designer"
-#        image: assets/img/team/500x500.jpg
-#        social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
-#          - url: https://facebook.com
-#            icon: fab fa-facebook-f
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in
-#      - name: "Larry Parker"
-#        role: "Lead Marketer"
-#        image: assets/img/team/2.jpg
-#        social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
-#          - url: https://facebook.com
-#            icon: fab fa-facebook-f
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in
-#      - name: "Diana Perterson"
-#        role: "Lead Developer"
-#        image: assets/img/team/500x500.jpg
-#        social:
-#          - url: https://twitter.com
-#            icon: fab fa-twitter
-#          - url: https://facebook.com
-#            icon: fab fa-facebook-f
-#          - url: https://linkedin.com
-#            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
