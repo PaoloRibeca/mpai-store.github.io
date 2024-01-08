@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "What we offer"
-    text: "Welcome to the MPAI Store, the organisation in charge of distributing and promoting AI-based technology developed within the framework of <a src='https://mpai.community'>MPAI</a> standards. In particular, we foster the creation of a marketplace through which implementers can provide high-quality solutions to end users. We support a modular and low-code approach to AI, whereby specialised components can be assembled into workflows and executed in a standardized environment to perform more complex tasks."
+    text: "Welcome to the MPAI Store, the organisation in charge of distributing and promoting AI-based technology developed within the framework of <a href='https://mpai.community'>MPAI</a> standards. In particular, we foster the creation of a marketplace through which implementers can provide high-quality solutions to end users. We support a modular and low-code approach to AI, whereby specialised components can be assembled into workflows and executed in a standardized environment to perform more complex tasks."
     section: services
     list:
       - title: "[Registration Authority for MPAI Developers](https://mpai.store/how-to-register)"
