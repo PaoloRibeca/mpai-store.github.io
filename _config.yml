@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://mpai.store" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : <img src='https://mpai.store/assets/img/Logo-III.png' alt='The MPAI Store logo' width='300'>The MPAI Store</img>
+title      : <img src='https://mpai.store/assets/img/Logo-III.rr.png' alt='The MPAI Store logo' width='300'>The MPAI Store</img>
 email      : your-email@example.com #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Your Name
