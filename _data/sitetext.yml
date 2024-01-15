@@ -24,10 +24,10 @@ en: &DEFAULT_EN
       - title: "[Registration Authority for MPAI Developers](https://mpai.store/how-to-register)"
         desc: "The MPAI Store acts as the official Registration Authority for developers of MPAI-compliant software (so-called _implementers_) and issues them with Implementer IDs"
         icon: fas fa-stamp #find more at https://fontawesome.com/icons
-      - title: "Distribute your AI Software Worldwide"
+      - title: "[Distribute your AI Software Worldwide](https://mpai.store/for-developers)"
         desc: "Are you a developer of an MPAI-compliant implementation? Through the MPAI Store, you can distribute your software to the world at large"
         icon: fas fa-upload
-      - title: "Download AI Components and Applications"
+      - title: "[Download AI Components and Applications](https://mpai.store/for-users)"
         desc: "Are you an integrator or an end user? On the MPAI Store you can find all the components you need for your favorite AI-based applications"
         icon: fas fa-shopping-cart
 
