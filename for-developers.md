@@ -22,6 +22,11 @@ The resulting system offers a range of desirable high-level features. For instan
 2. AI Frameworks can interact with other orchestrators operating in proximity
 3. AI Frameworks expose a rich set of APIs, for instance offering direct support for machine learning functionalities and optional support for security services.
 
+## Distributing your applications through the MPAI Store
+
+
+
+
 ## Would you like to know more?
 
 More information and a complete definition of the MPAI AI Framework reference model can be found in the [MPAI AIF standard](https://mpai.community/standards/mpai-aif/https://mpai.community/standards/mpai-aif/).
