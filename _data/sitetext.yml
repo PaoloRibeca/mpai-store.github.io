@@ -67,7 +67,8 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-######  clients:
+
+#  clients:
 #    section: clients
 #    max-height: 100px
 #    horizontal-scrolling: "" #"yes/no"
