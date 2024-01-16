@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "[Registration Authority for MPAI Developers](https://mpai.store/how-to-register)"
-        desc: "The MPAI Store acts as the official Registration Authority for developers of MPAI-compliant software (so-called _implementers_) and issues them with Implementer IDs"
+        desc: "The MPAI Store acts as the official Registration Authority for developers of MPAI-compliant software, issuing them with Implementer IDs"
         icon: fas fa-stamp #find more at https://fontawesome.com/icons
       - title: "[Distribute your AI Software Worldwide](https://mpai.store/for-developers)"
         desc: "Are you a developer of an MPAI-compliant implementation? Through the MPAI Store, you can distribute your software to the world at large"
