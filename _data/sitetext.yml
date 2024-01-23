@@ -54,7 +54,7 @@ en: &DEFAULT_EN
 
 * the Store tests the implementation and makes it available for distribution
 
-* integrators and end users download components or applications."
+* integrators and end users download components or applications"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "The MPAI Store is incorporated"
