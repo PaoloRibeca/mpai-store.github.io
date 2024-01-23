@@ -38,32 +38,27 @@ en: &DEFAULT_EN
     closebutton: "Back to Features"
 
   timeline:
-    title: "About MPAI Store"
-    text: "Lorem ipsum timeline"
+    title: "About the MPAI Store"
+    text: "A brief history of the MPAI ecosystem"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The MPAI GME standard is approved"
+        year: "September 2021"
+        desc: "On the first anniversary of [MPAI](https://mpai.community), the MPAI Governance of the MPAI Ecosystem (GME) is approved as the cornerstone standard describing the relation between MPAI and its ecosystem. According to it: MPAI develops and publishes standards; implementers take up standards, write implementations, and submit them to an external Store; the Store tests the implementation and makes it available for distribution; integrators and end users download components or applications."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The MPAI Store is incorporated"
+        year: "August 2022"
+        desc: "The MPAI Store is incorporated in Scotland as a company limited by guarantee"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "The MPAI Store is appointed as official MPAI distributor"
+        year: "September 2022"
+        desc: "On the second anniversary of [MPAI](https://mpai.community), the MPAI Store is appointed as the official custodian and distributor of compliant implementations of MPAI Standards."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
