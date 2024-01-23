@@ -47,6 +47,7 @@ en: &DEFAULT_EN
       - title: "The MPAI GME standard is approved"
         year: "September 2021"
         desc: "On the first anniversary of [MPAI](https://mpai.community), the [MPAI Governance of the MPAI Ecosystem (GME)](https://mpai.community/standards/mpai-gme) is approved as the cornerstone standard describing the relation between MPAI and its ecosystem. According to it:
+
 * MPAI develops and publishes standards
 * implementers take up standards, write implementations, and submit them to an external Store
 * the Store tests the implementation and makes it available for distribution
